@@ -16,7 +16,10 @@ local.properties
 
 # Eclipse Core
 .project
+<<<<<<< HEAD
 MANIFEST.MF
+=======
+>>>>>>> WKND-Events
 
 # External tool builders
 .externalToolBuilders/
@@ -42,6 +45,11 @@ MANIFEST.MF
 # TeXlipse plugin
 .texlipse
 
+<<<<<<< HEAD
+=======
+# Visual Studio Code
+.vscode
+>>>>>>> WKND-Events
 
 ### Java ###
 *.class
@@ -57,8 +65,11 @@ MANIFEST.MF
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+<<<<<<< HEAD
 # Mac OS #
 .DS_Store
+=======
+>>>>>>> WKND-Events
 
 ### Maven ###
 target/
@@ -78,5 +89,10 @@ buildNumber.properties
 .idea/
 *.iml
 
+<<<<<<< HEAD
 ### Visual Studio ###
 .vscode
+=======
+### MacOS ###
+.DS_Store
+>>>>>>> WKND-Events
